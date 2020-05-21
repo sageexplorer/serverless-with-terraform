@@ -2,6 +2,8 @@
 
 To create:
 
+Main.tf has the configuration for terraform. 
+
 ```terraform init```
 
 ```terraform plan```
