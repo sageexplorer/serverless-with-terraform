@@ -2,7 +2,7 @@
 
 To create:
 
-Main.tf has the configuration for terraform. 
+main.tf has the configuration for terraform. 
 
 ```terraform init```
 
