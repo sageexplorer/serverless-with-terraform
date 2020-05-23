@@ -2,7 +2,7 @@
 
 To create:
 
-main.tf has the configuration for terraform. 
+main.tf has the configuration for terraform. It creates lambda function, and a cloudwatch log group, and provisions permission.
 
 ```terraform init```
 
